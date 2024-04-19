@@ -77,6 +77,7 @@ fun LimonadaApp() {
                         text = "Limonada",
                         textAlign = TextAlign.Center,
                         fontWeight = FontWeight.Bold,
+                        color = Color.White,
                         fontSize = 25.sp
                     )
                 }
@@ -86,6 +87,7 @@ fun LimonadaApp() {
                     modifier = Modifier
                         .fillMaxHeight(1F)
                         .fillMaxWidth(1F)
+                        .background(Color.White)
                 ) {
                     Column (
                         horizontalAlignment = Alignment.CenterHorizontally,
@@ -135,6 +137,7 @@ fun LimonadaApp() {
                         text = "Limonada",
                         textAlign = TextAlign.Center,
                         fontWeight = FontWeight.Bold,
+                        color = Color.White,
                         fontSize = 25.sp
                     )
                 }
@@ -144,6 +147,7 @@ fun LimonadaApp() {
                     modifier = Modifier
                         .fillMaxHeight(1F)
                         .fillMaxWidth(1F)
+                        .background(Color.White)
                 ) {
                     Column (
                         horizontalAlignment = Alignment.CenterHorizontally,
@@ -198,6 +202,7 @@ fun LimonadaApp() {
                         text = "Limonada",
                         textAlign = TextAlign.Center,
                         fontWeight = FontWeight.Bold,
+                        color = Color.White,
                         fontSize = 25.sp
                     )
                 }
@@ -207,6 +212,7 @@ fun LimonadaApp() {
                     modifier = Modifier
                         .fillMaxHeight(1F)
                         .fillMaxWidth(1F)
+                        .background(Color.White)
                 ) {
                     Column (
                         horizontalAlignment = Alignment.CenterHorizontally,
@@ -256,6 +262,7 @@ fun LimonadaApp() {
                         text = "Limonada",
                         textAlign = TextAlign.Center,
                         fontWeight = FontWeight.Bold,
+                        color = Color.White,
                         fontSize = 25.sp
                     )
                 }
@@ -265,6 +272,7 @@ fun LimonadaApp() {
                     modifier = Modifier
                         .fillMaxHeight(1F)
                         .fillMaxWidth(1F)
+                        .background(Color.White)
                 ) {
                     Column (
                         horizontalAlignment = Alignment.CenterHorizontally,
